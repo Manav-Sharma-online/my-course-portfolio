@@ -116,6 +116,9 @@ When professors teach a class to students in a classroom or lab and broadcast it
 
 ## Related Links
 [Academic Appeals Policy](https://www.senecapolytechnic.ca/about/policies/academic-appeal-policy.html)
+
 [Freedom of Information and Protection of Privacy Policy](https://www.senecapolytechnic.ca/about/policies/freedom-of-information-and-protection-of-privacy-policy.html)
+
 [Student Assessment Policy](https://www.senecapolytechnic.ca/about/policies/student-assessment-policy.html)
+
 [Student Progression and Promotion Policy](https://www.senecapolytechnic.ca/about/policies/student-progression-and-promotion-policy.html)
